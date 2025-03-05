@@ -37,9 +37,7 @@ Here's a snapshot of my GitHub activity:
 
 # 🌐 Let's Connect!
 Feel free to reach out for collaborations or just to chat about AI, data science, or tech in general!
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [Your Email Address](#)
-- **Portfolio**: [Your Portfolio Website](#)
+- **Portfolio**: [Portfolio Website](#)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yash-Haque&icon=0&color=0)](https://visitcount.itsvg.in)
